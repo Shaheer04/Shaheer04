@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shaheer Jamal
-- 👀 I’m interested in Artificial Intelligence, Web Development.
-- 🌱 I’m currently learning React JS.
+- 👀 I’m interested in Artificial Intelligence/Machine Learning. 
 - 📫 How to reach me sheeryjamal05@gmail.com.
 
 <!---
