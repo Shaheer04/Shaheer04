@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shaheer Jamal
-- 👀 I’m interested in Artificial Intelligence/Machine Learning and Cross Platform Development.
-- 🌱 I’m currently learning ReactNative.
+- 👀 I’m interested in Artificial Intelligence and Machine Learning
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me. Just email me at Shaheer-jamal@outlook.com
 
 <!---
