@@ -1,55 +1,14 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 💫 About Me:
+Hi, I am Shaheer Jamal,<br><br>An undergraduate AI student passionate about building real-world AI projects. I believe in self-learning and exploration, constantly creating fun and useful ML and AI projects to enhance my skills.<br><br>I am also deeply committed to community building and proud to be a beta [Microsoft Learn Student Ambassador](https://mvp.microsoft.com/en-US/studentambassadors/profile/830f1531-cbfe-44bf-9b2e-8c574d333f8d). I enjoy sharing my projects and learnings with others, and you can find more about my work on [LinkedIn](https://www.linkedin.com/in/shaheerjamal/).
 
-###
 
-<p align="left">My name is Shaheer and I'm an Aspiring Machine Learning Engineer from Karachi, Pakistan.</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shaheerjamal/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@sheeryjamal05) 
 
-###
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shaheer04&theme=dark&hide_border=true)<br/>
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 I'm currently learning Deep Learning<br>📫 How to reach me: Shaheer-jamal@outlook.com<br>🎲 Fun fact: I love to play fps games.</p>
-
-###
-
-<h2 align="left">My Skills...</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-</div>
-
-###
-
-<h2 align="left">My Socials</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/shaheerjamal/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@sheeryjamal05" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-  </a>
-  <a href="Shaheer-jamal@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
-</div>
-
-###
+---
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
