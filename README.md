@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shaheer</h1>
+<h1 align="center">Hi 👋, I'm Shaheer Jamal</h1>
 <h3 align="center">ML Engineer in the making. I build projects and learn new things in my free time, and I love attending hackathons.</h3>
 
 - 📫 How to reach me **shaheer-jamal@outlook.com**
