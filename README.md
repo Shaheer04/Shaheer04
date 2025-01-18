@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **shaheer-jamal@outlook.com**
 
-- 📄 Know about me [https://shaheerjamal.bio.link/](https://shaheerjamal.bio.link/)
+- 📄 Know about me [ShaheerJamal](https://shaheerjamal.bio.link/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
