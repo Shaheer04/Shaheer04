@@ -1,4 +1,4 @@
-Aspiring AI Engineer with a passion for building intelligent systems and exploring the fascinating world of artificial intelligence.
+AI Engineer with a passion for building intelligent systems and exploring the fascinating world of artificial intelligence.
 
 ### **What I'm Focused On:**
 
