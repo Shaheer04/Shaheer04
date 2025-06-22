@@ -24,7 +24,7 @@ Currently diving deeper into Computer Vision and Generative AI!
 
 I'm continuously expanding my knowledge in AI through self-study, online courses, and hands-on projects. 
 
-For a comprehensive overview of my skills and expperience, please refer to my [CV](https://github.com/Shaheer04/CV/blob/6eb32b847286423759bb886936b5732b39a3cad2/Shaheer's%20CV.pdf)
+For a comprehensive overview of my skills and expperience, please refer to my [CV](https://github.com/Shaheer04/CV/blob/main/Shaheer's%20CV%20AI.pdf)
 
 ### **Connect with me:**
 
