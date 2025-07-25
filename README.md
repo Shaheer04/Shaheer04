@@ -7,10 +7,10 @@ Currently diving deeper into Computer Vision and Generative AI!
 ### **Skills:**
 
 * **Programming Languages:** Python, JavaScript
-* **AI/ML Libraries & Frameworks:** scikit-learn, PyTorch
+* **AI/ML Libraries & Frameworks:** scikit-learn, PyTorch, Langchain
 * **AI/ML Platforms:** Azure ML, IBM Watsonx.ai
 * **Backend Development:** FastAPI
-* **Databases:** PostgreSQL, SQLite, MongoDB
+* **Databases:** PostgreSQL, SQLite, MongoDB, Chromadb
 * **Other Technologies:** Git, Jupyter Notebook
 * **Data Analysis:** Pandas, NumPy, Seaborn
 
